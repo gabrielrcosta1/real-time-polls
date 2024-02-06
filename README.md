@@ -48,7 +48,7 @@ Este projeto é um sistema de enquetes em tempo real, desenvolvido para proporci
 
 5. **Acessando o Sistema**
 
-   Após a inicialização, o sistema estará disponível em `http://localhost:3000`.
+   Após a inicialização, o sistema estará disponível em `http://localhost:3333`.
 
 ## English
 
@@ -97,4 +97,4 @@ This project is a real-time polling system, developed to provide an interactive 
 
 5. **Accessing the System**
 
-   After initialization, the system will be available at `http://localhost:3000`.
+   After initialization, the system will be available at `http://localhost:3333`.
